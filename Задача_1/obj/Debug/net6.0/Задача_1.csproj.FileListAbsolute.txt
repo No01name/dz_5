@@ -1,0 +1,15 @@
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/bin/Debug/net6.0/Задача_1
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/bin/Debug/net6.0/Задача_1.deps.json
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/bin/Debug/net6.0/Задача_1.runtimeconfig.json
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/bin/Debug/net6.0/Задача_1.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/bin/Debug/net6.0/ref/Задача_1.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/bin/Debug/net6.0/Задача_1.pdb
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.csproj.AssemblyReference.cache
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.AssemblyInfoInputs.cache
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.AssemblyInfo.cs
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.csproj.CoreCompileInputs.cache
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/ref/Задача_1.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.pdb
+/home/darkfireus/Рабочий стол/dz_5/Задача_1/obj/Debug/net6.0/Задача_1.genruntimeconfig.cache

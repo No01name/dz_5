@@ -1,0 +1,15 @@
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/bin/Debug/net6.0/Задача_3
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/bin/Debug/net6.0/Задача_3.deps.json
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/bin/Debug/net6.0/Задача_3.runtimeconfig.json
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/bin/Debug/net6.0/Задача_3.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/bin/Debug/net6.0/ref/Задача_3.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/bin/Debug/net6.0/Задача_3.pdb
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.csproj.AssemblyReference.cache
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.AssemblyInfoInputs.cache
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.AssemblyInfo.cs
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.csproj.CoreCompileInputs.cache
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/ref/Задача_3.dll
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.pdb
+/home/darkfireus/Рабочий стол/dz_5/Задача_3/obj/Debug/net6.0/Задача_3.genruntimeconfig.cache
